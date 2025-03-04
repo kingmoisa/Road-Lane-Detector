@@ -14,3 +14,4 @@ There were many steps, such as in the photo below:
 9) Removing the noise from the edges
 10) Drawing the detected lane lines on the binarized frame
 11) Transforming lane lines back to the original perspective
+![hatzul](https://github.com/user-attachments/assets/7ead5d03-7629-4381-b0d4-f23fc4a67a83)
